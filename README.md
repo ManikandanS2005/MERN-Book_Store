@@ -48,43 +48,11 @@ This project is a full-stack Book Store application built using the MERN stack (
 cd backend
 npm install
 npm start
-```
+
+
 
 ### **Frontend Setup**
 ```bash
 cd frontend
 npm install
 npm run dev
-```
-
----
-
-## **API Endpoints**
-- `GET /books` – Fetch all books
-- `GET /books/:id` – Fetch a single book by ID
-- `POST /books` – Add a new book
-- `PUT /books/:id` – Update a book by ID
-- `DELETE /books/:id` – Delete a book by ID
-
----
-
-## **Screenshots**
-- Home page displaying book cards
-- Book details view
-- Add/Edit/Delete book modal
-
----
-
-## **Future Improvements**
-- Implement JWT authentication for secure access
-- Add search and filter functionality
-- Enhance UI with more animations and design improvements
-
----
-
-## **Conclusion**
-This project was an excellent learning experience, enhancing my skills in the MERN stack and providing a solid foundation for building full-stack applications.
-
----
-
-**Happy Coding!** 🚀
